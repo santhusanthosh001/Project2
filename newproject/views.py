@@ -14,3 +14,6 @@ def add_numbers(request):
 
 
 # Create your views here.
+a=10
+b=20
+print(a+b)
